@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoordinateGenerator()
+comment0.text=\r\n\ Default\ constructor\ with\ default\ minimum\ and\ maximum\ values\r\n\ @param\ \ \ \ None\r\n\ @return\ \ \ None\r\n
+comment1.params=min\ max
+comment1.target=CoordinateGenerator(int,\ int)
+comment1.text=\r\n\ Non-Default\ constructor\ that\ sets\ the\ minimum\ and\ maximum\ values\ by\ specified\ values\r\n\ @param\ \ \ \ min\ \ minimum\ range\ for\ generating\ randomn\ value\r\n\ @param\ \ \ \ max\ \ maximum\ range\ for\ generating\ value\ \r\n\ @return\ \ \ None\r\n
+comment2.params=
+comment2.target=int\ minimumValue()
+comment2.text=\r\n\ This\ method\ is\ used\ to\ get\ the\ minimum\ range\ for\ generating\ randomn\ value\r\n\ @param\ \ \ \ \ \ none\r\n\ @return\ \ \ \ \ int\ \ \ \ minimum\ range\ for\ generating\ randomn\ value\r\n
+comment3.params=
+comment3.target=int\ maximumValue()
+comment3.text=\r\n\ This\ method\ is\ used\ to\ get\ the\ maximum\ range\ for\ generating\ randomn\ value\r\n\ @param\ \ \ \ \ \ none\r\n\ @return\ \ \ \ \ int\ \ \ \ maximum\ range\ for\ generating\ randomn\ value\r\n
+comment4.params=
+comment4.target=int\ generateRandomnValue()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ randomly\ generate\ integer\ value\ within\ the\ minimum\ and\ maximum\ range\r\n\ @param\ \ \ \ \ \ none\ \r\n\ @return\ \ \ \ \ int\ \ \ randomly\ generated\ value\r\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\r\n\ This\ method\ is\ used\ to\ display\ the\ minimum\ and\ maximum\ range\ of\ values\r\n\ @param\ \ \ \ \ \ none\r\n\ @return\ \ \ \ \ none\r\n
+comment6.params=min
+comment6.target=void\ setMinimumValue(int)
+comment6.text=\r\n\ This\ method\ is\ used\ to\ set\ the\ minimum\ range\ for\ generating\ randomn\ value\r\n\ @param\ \ \ \ \ \ int\ \ \ \ maximum\ range\ for\ generating\ randomn\ value\r\n\ @return\ \ \ \ \ none\r\n
+comment7.params=max
+comment7.target=void\ setMaximumValue(int)
+comment7.text=\r\n\ This\ method\ is\ used\ to\ set\ the\ maximum\ range\ for\ generating\ randomn\ value\r\n\ @param\ \ \ \ \ \ int\ \ \ \ maximum\ range\ for\ generating\ randomn\ value\r\n\ @return\ \ \ \ \ none\r\n
+numComments=8

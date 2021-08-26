@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validation()
+comment0.text=\r\n\ Default\ constructor\r\n\ @param\ \ \ \ None\r\n\ @return\ \ \ None\r\n
+comment1.params=inputData\ gridSize\ msg
+comment1.target=boolean\ validateInteger(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ This\ method\ is\ used\ to\ check\ whether\ the\ enter\ integer\ is\ between\ the\ specified\ length\ and\ return\ the\ result.\r\n\ @param\ \ \ \ \ inputData\ Ship\ cordinate\ accepted\ from\ user\r\n\ @param\ \ \ \ \ gridSize\ \ \ Maximum\ \ grid\ size.\ \r\n\ @param\ \ \ \ \ msg\ \ \ Message\ to\ be\ displayed.\ \r\n\ @return\ \ \ \ \ boolean\r\n
+comment2.params=input\ min\ max
+comment2.target=boolean\ validateString(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ This\ method\ is\ used\ to\ check\ whether\ the\ enter\ string\ is\ between\ the\ specified\ length\ and\ return\ the\ result.\r\n\ @param\ \ \ \ \ \ input\ Ship\ name\ accepted\ from\ user\r\n\ @param\ \ \ \ \ \ min\ \ \ Minimum\ Ship\ name\ length.\ \r\n\ @param\ \ \ \ \ \ max\ \ \ Maximum\ Ship\ name\ length.\ \r\n\ @return\ \ \ \ \ boolean\ \r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileIO()
+comment0.text=\r\n\ Default\ Constructor\ with\ file\ name\ set\ to\ gamesettings.txt\r\n\ @param\ \ \ \ \ none\r\n\ @return\ \ \ \ none\r\n
+comment1.params=name
+comment1.target=FileIO(java.lang.String)
+comment1.text=\r\n\ Non-Default\ Constructor\ used\ to\ set\ file\ name\ with\ specified\ file\ name\r\n\ @param\ \ \ \ \ name\ \ Name\ of\ file\r\n\ @return\ \ \ \ none\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFilename()
+comment2.text=\r\n\ It\ is\ used\ to\ get\ the\ file\ name\r\n\ @param\ \ \ \ \ none\r\n\ @return\ \ \ \ String\ \ Name\ of\ file\r\n
+comment3.params=filename
+comment3.target=void\ setFilename(java.lang.String)
+comment3.text=\r\n\ It\ is\ used\ to\ set\ the\ file\ name\r\n\ @param\ \ \ \ \ fileName\ \ Name\ of\ file\r\n\ @return\ \ \ \ none\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ readFromFile()
+comment4.text=\r\n\ This\ method\ is\ used\ to\ read\ contents\ from\ file\ and\ return\ the\ contents\ in\ array\ list\ of\ string.\r\n\ @param\ \ \ \ \ none\r\n\ @return\ \ \ \ ArrayList<String>\ \ returns\ the\ contents\ of\ file\r\n
+comment5.params=fileContents\ file
+comment5.target=void\ writeToFile(java.lang.String,\ java.lang.String)
+comment5.text=\r\n\ This\ method\ is\ used\ to\ write\ the\ final\ score\ in\ the\ specified\ file.\r\n\ @param\ \ \ fileContents\ \ \ indicates\ contents\ to\ be\ written\ in\ file\r\n\ @param\ \ \ file\ \ \ \ \ \ \ \ \ \ \ indicates\ the\ name\ of\ the\ file\r\n\ @return\ \ none\r\n
+numComments=6

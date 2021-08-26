@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Input()
+comment0.text=\r\n\ Default\ constructor\ of\ the\ Input\ Class\r\n
+comment1.params=msg\ grid
+comment1.target=int\ getCordinate(java.lang.String,\ int)
+comment1.text=\r\n\ This\ method\ will\ accept\ the\ integer\ input\ from\ the\ user\ and\ return\ it\ to\ the\ calling\ object.\ .\r\n\ @param\ \ \ \ \ \ msg\ \ \ \ \ \ indicate\ the\ input\ message\ to\ user\r\n\ @param\ \ \ \ \ \ grid\ \ \ \ \ indicate\ the\ size\ of\ grid\ to\ be\ display\r\n\ @return\ \ \ \ \ Integer\ \ input\ from\ user\r\n
+comment2.params=
+comment2.target=java.lang.String\ getShipName()
+comment2.text=\r\n\ This\ method\ will\ accept\ the\ string\ input\ from\ the\ user\ and\ return\ it\ to\ the\ calling\ object.\ .\r\n\ @param\ \ \ \ \ \ none\r\n\ @return\ \ \ \ \ String\ ship\ name\r\n
+numComments=3
